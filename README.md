@@ -1,4 +1,2 @@
 # StormLauncher
-storm new launcher skid = bad also code bad pls no judge if u make it better pls pull request ok thx
-
-also its called repoxis cuz that was my old launcher name ok 
+A launcher I made for StormFn around 2021-2022, I wouldn't recommend using this since a lot of the code is a mess.
